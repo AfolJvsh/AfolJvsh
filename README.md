@@ -8,7 +8,7 @@ Hi there! I'm Afolayan, a passionate software developer who turns ideas into cle
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, PHP, Python
+- **Languages:** JavaScript, PHP
 - **Frameworks:** Laravel, React, React Native, Node.js
 - **Tools & Platforms:** Firebase, AWS, MySQL, Git, JSONBin, Android Studio, VSCode
 - **Other Skills:** RESTful APIs, Push Notifications, Geolocation, CRUD operations, Version Control, Multi-device Compatibility
