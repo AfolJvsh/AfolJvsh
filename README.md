@@ -1,79 +1,49 @@
-# 👋 Hi, I’m Afolayan Joshua
+# 👨‍💻 Afolayan Joshua
 
-### 👨‍💻 Software Developer | IT Consultant | MSSP Specialist
+**Software Developer | Backend Specialist | Tech Blogger**
 
-Welcome to my GitHub — a curated log of practical, scalable solutions for modern businesses. I engineer systems that are **secure by design**, **resilient in architecture**, and **tailored for performance**. Whether it's building secure APIs, deploying enterprise-grade Laravel backends, or architecting mobile-first applications, I bridge the gap between technology and business outcomes.
-
----
-
-### 🔧 What I Build
-
-- **🔐 Secure APIs & Backend Services**
-  - RESTful & tokenized Laravel APIs
-  - Role-based access control and job logic
-  - Authentication with Laravel Sanctum, Passport, JWT
-
-- **📱 Mobile & Web Applications**
-  - Scalable apps with React, React Native & Expo
-  - Offline-first experiences, responsive design, and geolocation features
-  - Seamless integration with Firebase, FCM & cloud push notifications
-
-- **💼 IT & Cybersecurity Advisory**
-  - SOC as a Service | MSSP | Risk & Compliance
-  - Cloud migration planning, digital transformation strategies
-  - Custom network and security architectures
-
-- **🛠️ DevOps & Infrastructure**
-  - JSON Bin integrations for lightweight data persistence
-  - Linux server management, CPanel deployments
-  - Domain DNS configuration (A records, CNAME, SSL setup)
+Hi there! I'm Afolayan, a passionate software developer who turns ideas into clean, scalable, and maintainable code. I specialize in building web and mobile applications using modern stacks, API integrations, and secure backend logic. I also love translating technical work into clear, engaging blog stories.
 
 ---
 
-### 🧠 My Technical Stack
+## 🛠 Tech Stack
 
-| Frontend      | Backend       | Mobile         | DevOps & Infra   | Security & Tools         |
-|---------------|---------------|----------------|------------------|--------------------------|
-| React, Next.js| Laravel, PHP  | React Native   | Git, CPanel, DNS | JWT, HTTPS, SIEM, EDR    |
-| Tailwind CSS  | RESTful APIs  | Expo, FCM      | Firebase, AWS    | OWASP, CSRF/XSS Hardening|
-
----
-
-### 📈 What Drives Me
-
-I don’t just code — I solve business problems through thoughtful architecture. My work is deeply rooted in:
-- **Security-First Development**
-- **User-Centric Design**
-- **Cross-Platform Consistency**
-- **Performance & Scalability**
+- **Languages:** JavaScript, PHP, Python
+- **Frameworks:** Laravel, React, React Native, Node.js
+- **Tools & Platforms:** Firebase, AWS, MySQL, Git, JSONBin, Android Studio, VSCode
+- **Other Skills:** RESTful APIs, Push Notifications, Geolocation, CRUD operations, Version Control, Multi-device Compatibility
 
 ---
 
-### 📝 Recent Highlights
+## 📌 Current Projects
 
-- 🚀 **Optimized an MSSP system** for real-time threat detection with EDR and SIEM integration  
-- 📲 **Launched full-stack mobile app** using Laravel API + React Native + geolocation + push notifications  
-- 🛡️ **Refactored a Laravel job board system** with role-based applicant-employer logic  
-- 🧩 **Delivered modular React components** with Tailwind UI & GSAP animations  
-- 🔍 **Provided IT consultancy** around DNS configuration, compliance, and multi-vendor infrastructure
-
----
-
-### 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📬 afolayan.joshua@yourdomain.com  
-- 🌐 [www.ictnetworld.com](https://ictnetworld.com)
+- 📍 A geolocation-based post management app (React Native + JSONBin backend)
+- 🔒 FCM-based push notification system for mobile apps
+- 📄 Blog-ready story generation scripts using structured prompts and Canvas output
+- 🧰 Custom background automation tasks via Android’s `AlarmManager`
 
 ---
 
-### 📌 Motto
+## 📚 What I Write About
 
-> _"Technology should scale your ideas, secure your assets, and streamline your future. I build for all three."_
+My blog content simplifies the complex—from authentication debates (JWT vs Laravel Auth) to animation libraries like GSAP, and even server-side intricacies. All posts focus on clarity, practical use, and real-world application.
 
 ---
 
-<!-- GitHub Stats (Optional) -->
-<!--
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&theme=tokyonight)
--->
+## 📈 GitHub Goals
+
+- Contribute to open source mobile tools
+- Build template repositories for full-stack apps
+- Publish a dev-oriented Tailwind + Laravel starter pack
+
+---
+
+## 🚀 Let’s Connect
+
+If you're into robust apps, creative frontend animations, or no-nonsense backend logic, we’ll get along well.
+
+> *"Code for clarity. Build for scale."*
+
+---
+
+🔗 [Portfolio (Coming Soon)]() | 📝 [Blog](#) | 📧 afolayan@example.com
